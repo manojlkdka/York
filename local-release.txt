@@ -1,1 +1,1 @@
-local-release
+new local-release
